@@ -68,35 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Little Lemon Restaurant
-
-## Screenshot
-
-### Home Page
-
-![Screenshot](./home-page.png)
-
-### Booking Page
-
-![Screenshot](./reservation.png)
-
-### Tech Stack:
-
-- HTML, CSS
-- JSX
-- React
-
-### Third Party Libraries & APIs:
-
-- react-router-dom
-- react-responsive-carousel
-- Meta front-end table-booking API
-
-### Install and Run:
-
-- Run 'npm start' on the reserve-a-table folder
-
-### Author
-
-- [Jeremy](https://github.com/hellojeremyonly)
